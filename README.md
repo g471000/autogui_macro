@@ -1,5 +1,7 @@
 # autogui_macro
 
+USED (pyautogui)[https://pyautogui.readthedocs.io/en/latest/] library
+
 I created this project for my Aunt, Kim.
 She did not have any streaming service, and only used shazam. She created Shazam library with more than 1K songs. She did not want to pay for the streaming service, so she was listening only 1 minute of the songs. Oh no!
 
